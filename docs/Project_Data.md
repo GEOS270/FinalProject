@@ -14,12 +14,12 @@ Here are are a few place you can look for data.  There are plenty other out ther
 
 ## Simply Analytics
 
-With [Simply Analytics](https://resources.library.ubc.ca/page.php?id=1044), you can download Cenus Data for Canada **and/or** the United States.  You can also download buissines locations.
+With [Simply Analytics](https://resources.library.ubc.ca/page.php?id=1044), you can download Cenus Data for Canada **and/or** the United States.  You can also download businesses locations.
 
 ## Google Earth Engine
 
 [Google Earth Engine](https://developers.google.com/earth-engine/datasets/) has lots of datasets, we've only covered two; using Landsat8 to calculate NDVI and and working with DEMs (see code below).  If you'd like to work with something we haven't worked with I'm happy to help facilitate downloading it, just send me an email.  *Do not wait until the last minute* to contact me asking for help with a download.
-* This code can be used to download a DEM from google earth, similar to what we did in [Module 2](https://june-skeeter.github.io/Module2_GEOS270/docs/Application_Part2.html#calculating-ndvi-with-google-earth-engine), just make sure to upload an appropriate boundary file first.
+* This code can be used to download a DEM from google earth, similar to what we did in to download NDVI, just make sure to upload an appropriate boundary file first.
 
 ```javascript
 var dataset = ee.ImageCollection('NRCan/CDEM').mean();

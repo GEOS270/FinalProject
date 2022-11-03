@@ -17,8 +17,7 @@ The ideas listed below are meant as a starting point, you should flush them out 
 
 # More in Depth Census Analysis
 
-You can use the concept explored in Module 2 (Access to Green Space/Nature vs. Wealth/Affluence) and/or Module 3 (Location vs. Affordability) as a starting point for a deeper analysis.  Incorporate different variables, look at different scales/resolutions/locations.  Don't repeat the assignments, come up with ways **improve** upon the methods and do a deeper analysis.
-
+You can use the concept explored in lab **Access to Green Space/Nature vs. Wealth/Affluence** and/or **Location vs. Affordability** as a starting point for a deeper analysis.  Don't repeat the assignments, come up with ways **improve** upon the methods and do a deeper analysis.  Or come up with another idea all your own!  You can look at langugage, demographic shifts, age, employment, etc.  
 
 # Access to green space and bicycle infrastructure in Vancouver 
  
