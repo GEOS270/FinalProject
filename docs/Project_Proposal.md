@@ -21,7 +21,15 @@ Some things to think about when formulating your project proposal:
 * Make sure you have a clear understanding of how you are going to go from your data to your final deliverables.
 * Ensure that your data is available and easy to obtain in a usable format.
 
-The proposal is worth 25 pts, minor comments/suggestions will be provided where applicable.  For detailed feedback, your group consider making time to meet with me either in person or over zoom during office hours (or by appointment) for further feedback.
-* Proposals turned in on time, will be promptly marked and returned the same day.
-* If you submit a proposal early, you can request it be marked early for quicker feedback.
-* The 7-day grace period applies to proposals like it does the module assignments.  But be mindful late submissions **waive their right to prompt feedback**.
+## Assessment / Feedback
+
+The proposal is worth 15 pts, minor comments/suggestions will be provided where applicable.  For detailed feedback, your group consider making time to meet with me either in person or over zoom during office hours (or by appointment).
+* Proposals turned in on time, will be promptly marked and returned within 24 hours.
+* If you submit a proposal early, you can request it be marked early for advanced feedback.
+	* Proposals submitted at least 1 day early (by Nov 24th) will also get **two bonus** points!
+	* Email June to confirm the early submission
+* Proposals will be assessed as follows:
+	* **15pts** - Great idea/outline, minimal changes needed
+	* **10pts** - Decent idea/outline, some changes needed, consider meeting with June to discuss
+	* **5pts** - Insufficient idea/outline, major changes needed, meet with June to discuss
+	* **0pts** - Missing

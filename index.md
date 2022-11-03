@@ -30,7 +30,7 @@ By the end of this project you will be able to:
 
 ## Deliverables    
 
-The Project is due  **Friday, December 9th**.  There is also a Final Project Proposal that is due **Wednesday November 23rd**.  The proposal will count as a 10% of your total Final Project grade.  Deliverables for this project will consist of the following:  
+The Project is due  **Friday, December 9th** and is worth 250 pts (25% of your final grade).  There is also a Final Project Proposal that is due **Friday November 25th**.  The proposal will count as a 15 pts of the total 250 pt Final Project grade.  Deliverables for this project will consist of the following:  
 
 * Project Proposal
 
@@ -45,7 +45,7 @@ The Project is due  **Friday, December 9th**.  There is also a Final Project Pro
 
 This is intended to be a group project.  I suggest you work in a groups of 3.  Groups larger than 4 are **not allowed**.  If you are looking to join a group, try making a post to the **Final Project Group Search** discussion page on canvas, list any topics you might be interested in working on.  If you are still having trouble finding a group try reaching out to your TA for assistance.
 
-I encourage you to work in groups, however I also recognize group work can be very difficult for some, especially those taking the course online.  You may work alone if desired **but** you must request approval first.  Choosing to work alone **will not** lower the expectations for your project.  Your project will be evaluated using the same standards as group projects.
+I encourage you to work in groups, however I also recognize group work can be very difficult for some; you may work alone **but** you must request approval **first**.  Choosing to work alone **will not** lower the expectations for your project.  Your project will be evaluated using the same standards as group projects.
 
 ---
 
@@ -54,7 +54,7 @@ I encourage you to work in groups, however I also recognize group work can be ve
 ### Project Proposal: Explore Ideas and Acquire Data
 {: .no_toc }
 
-The proposal is intended to get you thinking about the project sooner rather than later, so you aren't stuck scrambling at the last minute.  See the [Project Proposal](docs/Project_Proposal.md) page for details.  The proposal is due **Tuesday June 14th**
+The proposal is intended to get you thinking about the project sooner rather than later, so you aren't stuck scrambling at the last minute.  See the [Project Proposal](docs/Project_Proposal.md) page for details.  The proposal is due **Friday November 25th**
 
 Download and format your data during this step. Review the datasets and determine which layers and associated attributes you will need for your study. Pay special attention to the format of the data, and to the projection information before starting your analysis.  It is important to ensure you can access the desired data before starting your project!
 
@@ -62,7 +62,7 @@ Download and format your data during this step. Review the datasets and determin
 ### GIS Analysis   
 {: .no_toc }
 
-The project should have a higher level of complexity than any of the four labs you completed during the course. Think about all the operations and tools that you have learned in the course, and apply these to your particular data and GIS analysis topic. A list of potential analysis operations includes:  
+The project should incorporate skills you've learned from the labs you completed during the course. Think about the different operations and tools that you have learned in lab and we have discussed in lecture.  Try applying these to your topic. A list of potential analysis operations includes:  
 
 * Calculation of areas
 * Joining tables
@@ -73,7 +73,7 @@ The project should have a higher level of complexity than any of the four labs y
 * Raster overlay & reclassification
 * Working with DEMs (elevation, slope, aspect)
 
-It might be beneficial to do your project in Model Builder.  You are not required to do so, but it could be helpful for storing your workflow, which will make it easier to remember/describe your methods.
+It might be beneficial to do your project in Model Builder.  You are not required to do so, but it could be helpful for storing your workflow, which will make it easier to remember/describe your methods.  Feel free to explore methods we didn't cover in class as well.
 
  
 ### Flow Charts    
@@ -123,6 +123,11 @@ There is no word/page count.  You can keep the report brief, just be thorough.  
 
 ## Project Rubric
 
+Projects will be marked relative to on another following this rubric.  The 7-day grace period applies to projects & proposals like it does the module assignments.
+
+* But be mindful late submissions waive their right to prompt feedback.
+* Also be keep in mind, a late project will be marked more harshly relative to on time submissions to account for the extra time spent working on it.
+
 |       Category        |                                                                                                                                                 Details                                                                                                                                                  |Points |
 |-----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|
 |**Analysis**           |Considers the project holistically (GIS Analysis + Interpretation)<br>Was the data projected correctly, were appropriate steps taken, are there missing steps, logical flaws, obvious errors?<br>How thorough & rigourous was the analysis<br>Needs to be more than just a re-hash of a lab assignment<br>|**70** |
@@ -130,5 +135,5 @@ There is no word/page count.  You can keep the report brief, just be thorough.  
 |**Report Content**     |Does the report effectively convey the problem, explain the anaysis, discuss the results, and present conclusions/future research<br>Do they have each section as outlined on the proejct page                                                                                                            |**65** |
 |**Novelty & Relevance**|How unique/relevant is the topic/analysis<br>Did groups come up with their own idea substantially build on one of the ideas presented                                                                                                                                                                     |**25** |
 |**Data & Bibliography**|Are the data sources approrpriate for the analysis<br>Did they detail data sources and cite any sources used                                                                                                                                                                                              |**10** |
-|**Proposlal**          |Proposal is makred for completeness & effort (each section filled & project idea conveyed).                                                                                                                                                                                                               |**15** |
+|**Proposal**           |Proposal is marked for completeness & effort (each section filled & project idea conveyed).                                                                                                                                                                                                               |**15** |
 |**Total Score**        |   | **250**|
