@@ -19,7 +19,7 @@ With [Simply Analytics](https://resources.library.ubc.ca/page.php?id=1044), you 
 ## Google Earth Engine
 
 [Google Earth Engine](https://developers.google.com/earth-engine/datasets/) has lots of datasets, we've only covered two; using Landsat8 to calculate NDVI and and working with DEMs (see code below).  If you'd like to work with something we haven't worked with I'm happy to help facilitate downloading it, just send me an email.  *Do not wait until the last minute* to contact me asking for help with a download.
-* This code can be used to download a DEM from google earth, similar to what we did in to download NDVI, just make sure to upload an appropriate boundary file first.
+* This code can be used to download a DEM via the google earth [code editor](https://code.earthengine.google.com/), similar to what we did in to download NDVI, just make sure to upload an appropriate boundary file first.
 
 ```javascript
 var dataset = ee.ImageCollection('NRCan/CDEM').mean();
