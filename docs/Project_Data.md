@@ -60,3 +60,12 @@ Export.image.toDrive({
 
 The [City of Vancouver Data Portal](https://opendata.vancouver.ca/pages/home/) has a lots of data for the city: parks, zoning, bike lanes, transit etc.  Only for the **City** Vancouver.  [Surrey](https://www.surrey.ca/services-payments/online-services/open-data), [Richmond](https://www.richmond.ca/discover/maps.htm), [Burnaby](https://www.burnaby.ca/services-and-payments/maps-and-open-data), etc. have their own.  [Metro-Vancouver](http://www.metrovancouver.org/data#k=), which is inclusive of all thse cities has more data.  Most large municipalities have some sort of data portal.
 * eg.  Google: "Toronto open data" and see what comes up.
+
+## BC Air Quality Data
+
+I've compiled BCs [air quality data](https://github.com/June-Skeeter/BCAirQuality) into a format you can import into ArcGIS Pro.  Follow the link and make sure to read the metadata.
+
+
+## BC Precipitation and Temperature Data
+
+I've compiled Environment Canada's Precipitation and Temperature data [for all currently operating station in BC](https://github.com/June-Skeeter/CA_wxData_Download/tree/main/Summaries) into a format you can import into ArcGIS Pro.  Follow the link and make sure to read the metadata.
