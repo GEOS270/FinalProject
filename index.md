@@ -30,7 +30,7 @@ By the end of this project you will be able to:
 
 ## Deliverables    
 
-The Project is due  **Friday, December 9th** and is worth 250 pts (25% of your final grade).  There is also a Final Project Proposal that is due **Friday November 25th**.  The proposal will count as a 15 pts of the total 250 pt Final Project grade.  Deliverables for this project will consist of the following:  
+The Project is due  **Friday, April 14th** and is worth 250 pts (25% of your final grade).  There is also a Final Project Proposal that is due **Friday March 31st**.  The proposal will count as a 15 pts of the total 250 pt Final Project grade.  Deliverables for this project will consist of the following:  
 
 * Project Proposal
 

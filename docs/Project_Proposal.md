@@ -23,13 +23,11 @@ Some things to think about when formulating your project proposal:
 
 ## Assessment / Feedback
 
-The proposal is worth 15 pts, minor comments/suggestions will be provided where applicable.  For detailed feedback, your group consider making time to meet with me either in person or over zoom during office hours (or by appointment).
+The proposal is worth 15 pts, minor comments/suggestions will be provided where applicable.  For detailed feedback, your group should consider making time to meet with me either in person or over zoom during office hours (or by appointment).
 * Proposals turned in on time, will be promptly marked and returned within 24 hours.
-* If you submit a proposal early, you can request it be marked early for advanced feedback.
-	* Proposals submitted at least 1 day early (by Nov 24th) will also get **two bonus** points!
-	* Email June to confirm the early submission
 * Proposals will be assessed as follows:
 	* **15pts** - Great idea/outline, minimal changes needed
 	* **10pts** - Decent idea/outline, some changes needed, consider meeting with June to discuss
 	* **5pts** - Insufficient idea/outline, major changes needed, meet with June to discuss
 	* **0pts** - Missing
+* If you submit a proposal at least **1 day early** (by midnight March 30th) I will add **two bonus** points to your score!
