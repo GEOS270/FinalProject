@@ -54,7 +54,7 @@ I encourage you to work in groups, however I also recognize group work can be ve
 ### Project Proposal: Explore Ideas and Acquire Data
 {: .no_toc }
 
-The proposal is intended to get you thinking about the project sooner rather than later, so you aren't stuck scrambling at the last minute.  See the [Project Proposal](docs/Project_Proposal.md) page for details.  The proposal is due **Friday November 25th**
+The proposal is intended to get you thinking about the project sooner rather than later, so you aren't stuck scrambling at the last minute.  See the [Project Proposal](docs/Project_Proposal.md) page for details.  The proposal is due **Friday March 31st**
 
 Download and format your data during this step. Review the datasets and determine which layers and associated attributes you will need for your study. Pay special attention to the format of the data, and to the projection information before starting your analysis.  It is important to ensure you can access the desired data before starting your project!
 
@@ -123,9 +123,8 @@ There is no word/page count.  You can keep the report brief, just be thorough.  
 
 ## Project Rubric
 
-Projects will be marked relative to on another following this rubric.  The 7-day grace period applies to projects & proposals like it does the module assignments.
+Projects will be marked relative to on another following this rubric.  The 7-day grace period **does not** apply to projects like it does the module assignments.
 
-* But be mindful late submissions waive their right to prompt feedback.
 * Also be keep in mind, a late project will be marked more harshly relative to on time submissions to account for the extra time spent working on it.
 
 |       Category        |                                                                                                                                                 Details                                                                                                                                                  |Points |

@@ -30,4 +30,5 @@ The proposal is worth 15 pts, minor comments/suggestions will be provided where 
 	* **10pts** - Decent idea/outline, some changes needed, consider meeting with June to discuss
 	* **5pts** - Insufficient idea/outline, major changes needed, meet with June to discuss
 	* **0pts** - Missing
-* If you submit a proposal at least **1 day early** (by midnight March 30th) I will add **two bonus** points to your score!
+
+* If you submit a proposal at least **2 days early** (by midnight Wednesday March 29th) I will add **two bonus** points to your score and mark your proposal early!
