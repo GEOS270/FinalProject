@@ -43,7 +43,7 @@ The Project is due  **Friday, April 14th** and is worth 250 pts (25% of your fin
 
 ## Groups 
 
-This is intended to be a group project.  I suggest you work in a groups of 3.  Groups larger than 4 are **not allowed**.  If you are looking to join a group, try making a post to the **Final Project Group Search** discussion page on canvas, list any topics you might be interested in working on.  If you are still having trouble finding a group try reaching out to your TA for assistance.
+This is intended to be a group project.  I suggest you work in a groups of 3.  Groups larger than 4 are **not allowed**.  If you are looking to join a group, try making a post to the **Lab Discussion Board** on canvas, list any topics you might be interested in working on.  If you are still having trouble finding a group try reaching out to your TA for assistance.
 
 I encourage you to work in groups, however I also recognize group work can be very difficult for some; you may work alone **but** you must request approval **first**.  Choosing to work alone **will not** lower the expectations for your project.  Your project will be evaluated using the same standards as group projects.
 
